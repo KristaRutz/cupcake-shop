@@ -1,3 +1,12 @@
+body {
+    background-color: rgb(247, 204, 210);
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
+
 .menu-pic {
     width: 400px;
 }
@@ -12,4 +21,8 @@
 }
 .best {
     text-decoration: underline;
+}
+
+div.vanilla {
+    background-color: rgb(207, 141, 177);
 }
